@@ -51,10 +51,9 @@ button{
     align-items: center;
 }
 .logo-gif{
-    width: 480px;
-    height: 630px;
-    background: var(--red) url(../assets/preloadAnim.gif) no-repeat center center;
-    opacity: .5;
+    width: 240px;
+    height: 315px;
+    background: var(--red) url(../assets/preloadLogo.jpg) no-repeat center center;
 }
 .ploader-h3{
     margin-top: 1em;
